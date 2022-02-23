@@ -1,8 +1,0 @@
-Hi
-
-Create 2 repositories R1 & R2 in your github
-Create automation using either Jenkins or Flask or any other. Use Github API’s to push content of R1 and update to R2.
-
-Above is interview task
-
-Once successful with the test, please share a screenshot for verification. If you are successful till this point, you are selected. Followed by that we will start assigning projects, In our long term projects.
